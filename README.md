@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://www.tiagobernardes.com.br/wp-content/uploads/2019/09/logo-tiago-bernardes-especialista-wordpress.png" align="center" alt="Tiago Bernardes" /><br/> tiago bernardes | especialista wordpress
+  <img src="https://www.tiagobernardes.com.br/wp-content/uploads/2019/09/logo-tiago-bernardes-especialista-wordpress.png" align="center" alt="Tiago Bernardes" /><br/> tiago bernardes | desenvolvedor front-end | especialista wordpress
 </p>
 
 #### pessoal
