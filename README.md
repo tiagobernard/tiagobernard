@@ -1,6 +1,6 @@
-<p align="center">
-  <img src="https://www.tiagobernardes.com.br/wp-content/uploads/2019/09/logo-tiago-bernardes-especialista-wordpress.png" align="center" alt="Tiago Bernardes" /><br/> tiago bernardes | desenvolvedor front-end | especialista wordpress
-</p>
+# olá! eu sou o tiago bernardes
+#### :computer: desenvolvedor front-end | especialista wordpress
+Tenho 39 anos e trabalho com desenvolvimento web à 22. Já trabalhei em algumas agências de desenvolvimento em BH e Recife. Também já fiz parte do time de web da UPE (Universidade de Pernambuco). Fiquei um bom tempo trabahando como freelancer, hoje estou no comandando da Agência Digital Lab82, por aqui curtimos desenvolvimento web, Linux, Wordpress e um bom café forte.
 
 #### pessoal
 [![Telegram](https://img.shields.io/badge/-telegram-222?style=for-the-badge&logo=telegram&logoColor=26a5e4&link=https://t.me/tiagobernard)](https://t.me/tiagobernard)
@@ -13,7 +13,7 @@
 [![Facebook](https://img.shields.io/badge/-facebook-222?style=flat-square&logo=Facebook&logoColor=white&labelColor=2e88fe&link=https://www.facebook.com/tiagobernard.dev)](https://www.facebook.com/tiagobernard.dev)
 [![Twitter](https://img.shields.io/badge/-twitter-222?style=flat-square&logo=Twitter&logoColor=fff&labelColor=1DA1F2&link=https://twitter.com/tiagobernard)](https://twitter.com/tiagobernard)
 
-#### a lab82
+#### conheça a lab82
 [![Whatsapp](https://img.shields.io/badge/-whatsapp-222?style=for-the-badge&logo=whatsapp&logoColor=128C7E&link=http://bit.ly/WhatsAppLab82)](mailto:tiago@tiagobernardes.com.br)
 [![E-Mail](https://img.shields.io/badge/-falecom@lab82.dev-222?style=for-the-badge&logo=mail.ru&logoColor=a6ce39&link=mailto:tiago@tiagobernardes.com.br)](mailto:tiago@tiagobernardes.com.br)
 [![Lab82](https://img.shields.io/badge/-lab82.dev-222?style=for-the-badge&logo=rss&logoColor=a6ce39&link=http://bit.ly/WhatsAppLab82)](https://lab82.dev)<br/>
