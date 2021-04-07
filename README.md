@@ -14,7 +14,7 @@
 [![Twitter](https://img.shields.io/badge/-twitter-222?style=flat-square&logo=Twitter&logoColor=fff&labelColor=1DA1F2&link=https://twitter.com/tiagobernard)](https://twitter.com/tiagobernard)
 
 #### a lab82
-[![Whatsapp](https://img.shields.io/badge/-whatsapp-222?style=for-the-badge&logo=whatsapp&logoColor=fff&labelColor=128C7E&link=http://bit.ly/WhatsAppLab82)](mailto:tiago@tiagobernardes.com.br)
+[![Whatsapp](https://img.shields.io/badge/-whatsapp-222?style=for-the-badge&logo=whatsapp&logoColor=128C7E&link=http://bit.ly/WhatsAppLab82)](mailto:tiago@tiagobernardes.com.br)
 [![E-Mail](https://img.shields.io/badge/-falecom@lab82.dev-222?style=for-the-badge&logo=mail.ru&logoColor=a6ce39&link=mailto:tiago@tiagobernardes.com.br)](mailto:tiago@tiagobernardes.com.br)
 [![Lab82](https://img.shields.io/badge/-lab82.dev-222?style=for-the-badge&logo=rss&logoColor=a6ce39&link=http://bit.ly/WhatsAppLab82)](https://lab82.dev)<br/>
 [![Linkedin](https://img.shields.io/badge/-agencialab82-222?style=flat-square&logo=Linkedin&logoColor=0b66c1&link=https://linkedin.com/company/agencialab82)](https://linkedin.com/company/agencialab82)
