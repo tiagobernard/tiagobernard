@@ -1,35 +1,20 @@
-<!--
-**tiagobernard/tiagobernard** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center">
   <img src="https://www.tiagobernardes.com.br/wp-content/uploads/2019/09/logo-tiago-bernardes-especialista-wordpress.png" align="center" alt="Tiago Bernardes" /><br/> tiago bernardes | especialista wordpress
 </p>
 
 #### pessoal
-[![Telegram](https://img.shields.io/badge/-telegram-26a5e4?style=flat&logo=telegram&logoColor=white&link=https://t.me/tiagobernard)](https://t.me/tiagobernard)
-[![E-Mail](https://img.shields.io/badge/-email-005ff9?style=flat&logo=mail.ru&logoColor=white&link=mailto:tiago@tiagobernardes.com.br)](mailto:tiago@tiagobernardes.com.br)
-[![Blog](https://img.shields.io/badge/-tiagobernardes.com.br-3f729b?style=flat&logo=LiveChat&logoColor=white&link=https://tiagobernardes.com.br)](https://tiagobernardes.com.br)<br />
-[![Facebook](https://img.shields.io/badge/-facebook-1877F2?style=flat&logo=Facebook&logoColor=white&link=https://www.facebook.com/tiagobernard.dev)](https://www.facebook.com/tiagobernard.dev)
-[![Twitch](https://img.shields.io/badge/-twitch-9146ff?style=flat&logo=Twitch&logoColor=white&link=https://www.twitch.tv/tiagobernards)](https://www.twitch.tv/tiagobernards)
-[![Twitter](https://img.shields.io/badge/-twitter-1DA1F2?style=flat&logo=Twitter&logoColor=white&link=https://twitter.com/tiagobernard)](https://twitter.com/tiagobernard)
-[![Linkedin](https://img.shields.io/badge/-linkedin-0a66c2?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/in/tiagobernard)](https://linkedin.com/in/tiagobernard)
-[![Instagram](https://img.shields.io/badge/-instagram-e4405f?style=flat&logo=Instagram&logoColor=white&link=https://instagram.com/tiagobernard)](https://instagram.com/tiagobernard)
-[![Youtube](https://img.shields.io/badge/-youtube-E60012?style=flat&labelColor=ff0000&logo=youtube&logoColor=white&link=https://youtube.com/tiagobernards)](https://youtube.com/tiagobernards)
+[![Telegram](https://img.shields.io/badge/-telegram-222?style=for-the-badge&logo=telegram&logoColor=26a5e4&link=https://t.me/tiagobernard)](https://t.me/tiagobernard)
+[![E-Mail](https://img.shields.io/badge/-email-222?style=for-the-badge&logo=mail.ru&logoColor=3f729b&link=mailto:tiago@tiagobernardes.com.br)](mailto:tiago@tiagobernardes.com.br)
+[![Blog](https://img.shields.io/badge/-tiagobernardes.com.br-222?style=for-the-badge&logo=LiveChat&logoColor=3f729b&link=https://tiagobernardes.com.br)](https://tiagobernardes.com.br)<br />
+[![Linkedin](https://img.shields.io/badge/-linkedin-222?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0a66c2&link=https://linkedin.com/in/tiagobernard)](https://linkedin.com/in/tiagobernard)
+[![Instagram](https://img.shields.io/badge/-instagram-222?style=flat-square&logo=Instagram&logoColor=white&labelColor=C13584&link=https://instagram.com/tiagobernard)](https://instagram.com/tiagobernard)
+[![Youtube](https://img.shields.io/badge/-youtube-222?style=flat-square&logo=youtube&logoColor=fff&labelColor=red&link=https://youtube.com/tiagobernards)](https://youtube.com/tiagobernards)
+[![Twitch](https://img.shields.io/badge/-twitch-222?style=flat-square&logo=Twitch&logoColor=fff&labelColor=9146ff&link=https://www.twitch.tv/tiagobernards)](https://www.twitch.tv/tiagobernards)
+[![Facebook](https://img.shields.io/badge/-facebook-222?style=flat-square&logo=Facebook&logoColor=white&labelColor=1877F2&link=https://www.facebook.com/tiagobernard.dev)](https://www.facebook.com/tiagobernard.dev)
+[![Twitter](https://img.shields.io/badge/-twitter-222?style=flat-square&logo=Twitter&logoColor=fff&labelColor=1DA1F2&link=https://twitter.com/tiagobernard)](https://twitter.com/tiagobernard)
 
 #### a firma
-[![Whatsapp](https://img.shields.io/badge/-whatsapp-128C7E?style=flat&logo=whatsapp&logoColor=white&link=http://bit.ly/WhatsAppLab82)](mailto:tiago@tiagobernardes.com.br)
+[![Whatsapp](https://img.shields.io/badge/-whatsapp-222?style=for-the-badge&logo=whatsapp&logoColor=128C7E&link=http://bit.ly/WhatsAppLab82)](mailto:tiago@tiagobernardes.com.br)
 [![E-Mail](https://img.shields.io/badge/-falecom@lab82.dev-005ff9?style=flat&logo=mail.ru&logoColor=white&link=mailto:tiago@tiagobernardes.com.br)](mailto:tiago@tiagobernardes.com.br)
 [![Lab82](https://img.shields.io/badge/-lab82.dev-3f729b?style=flat&logo=rss&logoColor=white&link=http://bit.ly/WhatsAppLab82)](https://lab82.dev)<br/>
 [![Linkedin](https://img.shields.io/badge/-agencialab82-0a66c2?style=flat&logo=Linkedin&logoColor=white&link=https://linkedin.com/company/agencialab82)](https://linkedin.com/company/agencialab82)
