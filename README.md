@@ -1,8 +1,7 @@
-# olá! eu sou o tiago bernardes
+# 👋 olá! eu sou o tiago bernardes
 #### :computer: desenvolvedor front-end | especialista wordpress
-Tenho 39 anos e trabalho com desenvolvimento web à 22. Já trabalhei em algumas agências de desenvolvimento em BH e Recife. Também já fiz parte do time de web da UPE (Universidade de Pernambuco). Fiquei um bom tempo trabahando como freelancer, hoje estou no comandando da Agência Digital Lab82, por aqui curtimos desenvolvimento web, Linux, Wordpress e um bom café forte.
+> Tenho 39 anos e trabalho com desenvolvimento web à 22. Já trabalhei em algumas agências de desenvolvimento em Belo Horizonte e Recife. Também já fiz parte do time de web da UPE (Universidade de Pernambuco). Fiquei um bom tempo trabahando como freelancer, hoje estou no comandando da Agência Digital Lab82, por aqui curtimos desenvolvimento web, Linux, Wordpress e um bom café forte.
 
-#### pessoal
 [![Telegram](https://img.shields.io/badge/-telegram-222?style=for-the-badge&logo=telegram&logoColor=26a5e4&link=https://t.me/tiagobernard)](https://t.me/tiagobernard)
 [![E-Mail](https://img.shields.io/badge/-email-222?style=for-the-badge&logo=mail.ru&logoColor=3f729b&link=mailto:tiago@tiagobernardes.com.br)](mailto:tiago@tiagobernardes.com.br)
 [![Blog](https://img.shields.io/badge/-tiagobernardes.com.br-222?style=for-the-badge&logo=LiveChat&logoColor=3f729b&link=https://tiagobernardes.com.br)](https://tiagobernardes.com.br)<br />
@@ -36,5 +35,3 @@ Tenho 39 anos e trabalho com desenvolvimento web à 22. Já trabalhei em algumas
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=fff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-ED8B0B?style=flat-square&logo=sublime-text&logoColor=fff)
-
-<!-- [tiagobernardes.com.br](https://tiagobernardes.com.br/) | [lab82.dev](https://lab82.dev/) -->
