@@ -13,6 +13,7 @@
 [![Twitch](https://img.shields.io/badge/-twitch-222?style=flat-square&logo=Twitch&logoColor=fff&labelColor=9146ff&link=https://www.twitch.tv/tiagobernards)](https://www.twitch.tv/tiagobernards)
 [![Facebook](https://img.shields.io/badge/-facebook-222?style=flat-square&logo=Facebook&logoColor=white&labelColor=2e88fe&link=https://www.facebook.com/tiagobernard.dev)](https://www.facebook.com/tiagobernard.dev)
 [![Twitter](https://img.shields.io/badge/-twitter-222?style=flat-square&logo=Twitter&logoColor=fff&labelColor=1DA1F2&link=https://twitter.com/tiagobernard)](https://twitter.com/tiagobernard)
+[![Discord](https://img.shields.io/badge/-tiagobernard%235516-222?style=flat-square&logo=Discord&logoColor=fff&labelColor=7289DA&link=https://discord.com/users/556874691348791326/)](https://discord.com/users/556874691348791326/)
 
 #### conheça a lab82
 [![Whatsapp](https://img.shields.io/badge/-whatsapp-222?style=for-the-badge&logo=whatsapp&logoColor=128C7E&link=http://bit.ly/WhatsAppLab82)](mailto:tiago@tiagobernardes.com.br)
@@ -23,7 +24,7 @@
 [![Instagram](https://img.shields.io/badge/-@lab82.dev-222?style=flat-square&logo=Instagram&logoColor=c13584&link=https://instagram.com/lab82.dev)](https://instagram.com/lab82.dev)
 [![Twitter](https://img.shields.io/badge/-@Lab82Dev-222?style=flat-square&logo=Twitter&logoColor=1DA1F2&link=https://twitter.com/Lab82Dev)](https://twitter.com/Lab82Dev)
 
-#### Linguagens e Ferramentas
+#### linguagens e ferramentas
 ![Wordpress](http://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=333)
 ![Fedora](http://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=fff)
