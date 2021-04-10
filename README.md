@@ -2,7 +2,7 @@
 
 # 👋 olá! eu sou o tiago bernardes
 #### :computer: desenvolvedor front-end | especialista wordpress
-> Tenho 39 anos e trabalho com desenvolvimento web à 22. Já trabalhei em algumas agências de desenvolvimento em Belo Horizonte e Recife. Também já fiz parte do time de web da UPE (Universidade de Pernambuco). Fiquei um bom tempo trabahando como freelancer, hoje estou no comandando da Agência Digital Lab82, por aqui curtimos desenvolvimento web, Linux, Wordpress e um bom café forte.
+> Tenho 39 anos e trabalho com desenvolvimento *web* à 22. Já trabalhei em algumas agências de desenvolvimento em Belo Horizonte e Recife. Também já fiz parte do time de *web* da UPE (Universidade de Pernambuco). Fiquei um bom tempo trabahando como *freelancer*, hoje estou no comandando da Agência Digital Lab82, por aqui curtimos desenvolvimento *web*, Linux, Wordpress e um bom café forte.
 
 [![Telegram](https://img.shields.io/badge/-telegram-222?style=for-the-badge&logo=telegram&logoColor=26a5e4&link=https://t.me/tiagobernard)](https://t.me/tiagobernard)
 [![E-Mail](https://img.shields.io/badge/-email-222?style=for-the-badge&logo=mail.ru&logoColor=3f729b&link=mailto:tiago@tiagobernardes.com.br)](mailto:tiago@tiagobernardes.com.br)
@@ -39,4 +39,10 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-ED8B0B?style=flat-square&logo=sublime-text&logoColor=fff)
 
+<div>
+	<a href="https://github.com/tiagobernard">
+		<img height="180em" src="https://github-readme-stats.vercel.app/api?username=tiagobernard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+		<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobernard&layout=compact&langs_count=8&theme=dracula"/>
+	</a>
+</div>
 </samp>
