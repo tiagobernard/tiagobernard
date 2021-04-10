@@ -2,7 +2,7 @@
 
 # 👋 olá! eu sou o tiago bernardes
 ### :rocket: desenvolvedor front-end | especialista wordpress
-> Tenho 39 anos e trabalho com desenvolvimento *web* à 22. Já trabalhei em algumas agências de desenvolvimento em Belo Horizonte e Recife. Também já fiz parte do time de *web* da UPE (Universidade de Pernambuco). Fiquei um bom tempo trabahando como *freelancer*, hoje estou no comandando da [Agência Digital Lab82](https://lab82.dev), por aqui curtimos desenvolvimento *web*, Linux, Wordpress e um bom café forte.
+> Tenho 39 anos e trabalho com desenvolvimento *web* à 22. Já trabalhei em algumas agências de desenvolvimento em Belo Horizonte e Recife. Também já fiz parte do time de *web* da UPE (Universidade de Pernambuco). Fiquei um bom tempo trabahando como *freelancer*, hoje estou no comandando da Agência Digital [Lab82](https://lab82.dev), por aqui curtimos desenvolvimento *web*, Linux, Wordpress e um bom café forte.
 
 ### :computer: contato e redes sociais
 [![Telegram](https://img.shields.io/badge/-telegram-222?style=for-the-badge&logo=telegram&logoColor=26a5e4&link=https://t.me/tiagobernard)](https://t.me/tiagobernard)
@@ -17,19 +17,19 @@
 [![Discord](https://img.shields.io/badge/-tiagobernard%235516-222?style=flat-square&logo=Discord&logoColor=fff&labelColor=7289DA&link=https://discord.com/users/556874691348791326/)](https://discord.com/users/556874691348791326/)
 
 ### :technologist: linguagens e ferramentas
-![Wordpress](http://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=ffffff)
-![Linux](http://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=333)
-![Fedora](http://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=fff)
-![Mysql](https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)
-![FileZilla](http://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=fff)
 ![PHP](http://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=ffffff)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1E&color=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=fff)
+![Mysql](https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)<br />
+![Wordpress](http://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=ffffff)
+![Linux](http://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=333)
+![Fedora](http://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=fff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-ED8B0B?style=flat-square&logo=sublime-text&logoColor=fff)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=fff)
+![FileZilla](http://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=fff)
 
 ### :octocat: resumo da vida no github
 
