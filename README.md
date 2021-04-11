@@ -2,10 +2,11 @@
 
 # 👋 olá! eu sou o tiago bernardes
 ### :rocket: desenvolvedor front-end | especialista wordpress
-> Tenho 39 anos e trabalho com desenvolvimento *web* à 22. Já trabalhei em algumas agências de desenvolvimento em Belo Horizonte e Recife. Também já fiz parte do time de *web* da UPE (Universidade de Pernambuco). Fiquei um bom tempo trabahando como *freelancer*, hoje estou no comandando da Agência Digital [Lab82](https://lab82.dev), por aqui curtimos desenvolvimento *web*, Linux, Wordpress e um bom café forte.
+> Tenho 39 anos e trabalho com desenvolvimento *web* à 22. Já trabalhei em algumas agências de desenvolvimento em Belo Horizonte e Recife. Também já fiz parte do time de *web* da UPE (Universidade de Pernambuco). Fiquei um bom tempo trabahando como *freelancer*, hoje estou no comandando da Agência Digital [Lab82](https://lab82.dev), por aqui curtimos desenvolvimento *web*, Linux, Wordpress e um bom café forte :coffee:.
 
-### :computer: contato e redes sociais
+### :computer: contatos e redes sociais
 [![Telegram](https://img.shields.io/badge/-telegram-222?style=for-the-badge&logo=telegram&logoColor=26a5e4&link=https://t.me/tiagobernard)](https://t.me/tiagobernard)
+[![Discord](https://img.shields.io/badge/-tiagobernard%235516-222?style=for-the-badge&logo=Discord&logoColor=7289DA&link=https://discord.com/users/556874691348791326/)](https://discord.com/users/556874691348791326/)
 [![E-Mail](https://img.shields.io/badge/-email-222?style=for-the-badge&logo=mail.ru&logoColor=3f729b&link=mailto:tiago@tiagobernardes.com.br)](mailto:tiago@tiagobernardes.com.br)
 [![Blog](https://img.shields.io/badge/-tiagobernardes.com.br-222?style=for-the-badge&logo=LiveChat&logoColor=3f729b&link=https://tiagobernardes.com.br)](https://tiagobernardes.com.br)<br />
 [![Linkedin](https://img.shields.io/badge/-linkedin-222?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0b66c1&link=https://linkedin.com/in/tiagobernard)](https://linkedin.com/in/tiagobernard)
@@ -14,7 +15,6 @@
 [![Twitch](https://img.shields.io/badge/-twitch-222?style=flat-square&logo=Twitch&logoColor=fff&labelColor=9146ff&link=https://www.twitch.tv/tiagobernards)](https://www.twitch.tv/tiagobernards)
 [![Facebook](https://img.shields.io/badge/-facebook-222?style=flat-square&logo=Facebook&logoColor=white&labelColor=2e88fe&link=https://www.facebook.com/tiagobernard.dev)](https://www.facebook.com/tiagobernard.dev)
 [![Twitter](https://img.shields.io/badge/-twitter-222?style=flat-square&logo=Twitter&logoColor=fff&labelColor=1DA1F2&link=https://twitter.com/tiagobernard)](https://twitter.com/tiagobernard)
-[![Discord](https://img.shields.io/badge/-tiagobernard%235516-222?style=flat-square&logo=Discord&logoColor=fff&labelColor=7289DA&link=https://discord.com/users/556874691348791326/)](https://discord.com/users/556874691348791326/)
 
 ### :technologist: linguagens e ferramentas
 ![PHP](http://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=ffffff)
@@ -28,15 +28,15 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-ED8B0B?style=flat-square&logo=sublime-text&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=fff)
-![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=fff)
+![GitHub](https://img.shields.io/badge/-GitHub-222?style=flat-square&logo=github&logoColor=fff)
 ![FileZilla](http://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=fff)
 
 ### :octocat: resumo da vida no github
 
 <div>
 	<a href="https://github.com/tiagobernard">
-		<img src="https://github-readme-stats.vercel.app/api?username=tiagobernard&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobernard&layout=compact&langs_count=8&theme=dracula"/>
+		<img src="https://github-readme-stats.vercel.app/api?username=tiagobernard&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&bg_color=222&title_color=3f729b&icon_color=3f729b&custom_title=status&text_color=fff"/>
+		<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiagobernard&langs_count=8&hide_border=true&bg_color=222&title_color=3f729b&custom_title=principais%20linguagens&text_color=fff&layout=compact"/>
 	</a>
 </div>
 
