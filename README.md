@@ -1,6 +1,6 @@
 <samp>
 
-# 👋 olá! eu sou o tiago bernardes
+# 👋 olá! sou tiago bernardes
 ### :rocket: desenvolvedor front-end | especialista wordpress
 > Tenho 39 anos e trabalho com desenvolvimento *web* à 22. Já trabalhei em algumas agências de desenvolvimento em Belo Horizonte e Recife. Também já fiz parte do time de *web* da UPE (Universidade de Pernambuco). Fiquei um bom tempo trabahando como *freelancer*, hoje estou no comandando da Agência Digital [Lab82](https://lab82.dev), por aqui curtimos desenvolvimento *web*, Linux, Wordpress e um bom café forte :coffee:.
 
