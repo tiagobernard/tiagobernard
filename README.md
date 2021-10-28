@@ -22,8 +22,8 @@
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000&labelColor=F7DF1E&color=F7DF1E)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=ffffff)
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
-![Angular](https://img.shields.io/badge/-Angular-%23dd0031?style=flat-square&logo=angularjs)
-![Nodejs](https://img.shields.io/badge/-Nodejs-%23339933?style=flat-square&logo=node)
+![Angular](https://img.shields.io/badge/-Angular-%23dd0031?style=flat-square&logo=angular)
+![Nodejs](https://img.shields.io/badge/-Nodejs-%23339933?style=flat-square&logoColor=fff&logo=node.js)
 ![Mysql](https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)<br />
 ![Wordpress](http://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=333)
