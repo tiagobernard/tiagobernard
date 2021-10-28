@@ -24,6 +24,7 @@
 ![CSS3](https://img.shields.io/badge/-CSS3-%231572B6?style=flat-square&logo=css3)
 ![Angular](https://img.shields.io/badge/-Angular-%23dd0031?style=flat-square&logo=angular)
 ![Nodejs](https://img.shields.io/badge/-Nodejs-%23339933?style=flat-square&logoColor=fff&logo=node.js)
+![TypeScript](https://img.shields.io/badge/-TypeScript-%23339933?style=flat-square&logoColor=fff&logo=typescript)
 ![Mysql](https://img.shields.io/badge/-Mysql-4479A1?style=flat-square&logo=mysql&logoColor=ffffff)<br />
 ![Wordpress](http://img.shields.io/badge/-Wordpress-21759B?style=flat-square&logo=wordpress&logoColor=ffffff)
 ![Linux](http://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=333)
@@ -46,8 +47,8 @@
 ----
 
 ### :test_tube: conheça a lab82
-[![Whatsapp](https://img.shields.io/badge/-whatsapp-222?style=for-the-badge&logo=whatsapp&logoColor=128C7E&link=http://bit.ly/WhatsAppLab82)](mailto:tiago@tiagobernardes.com.br)
-[![E-Mail](https://img.shields.io/badge/-falecom@lab82.dev-222?style=for-the-badge&logo=mail.ru&logoColor=a6ce39&link=mailto:tiago@tiagobernardes.com.br)](mailto:tiago@tiagobernardes.com.br)
+[![Whatsapp](https://img.shields.io/badge/-whatsapp-222?style=for-the-badge&logo=whatsapp&logoColor=128C7E&link=http://bit.ly/WhatsAppLab82)](https://bit.ly/3yBv0vc)
+[![E-Mail](https://img.shields.io/badge/-falecom@lab82.dev-222?style=for-the-badge&logo=mail.ru&logoColor=a6ce39&link=mailto:falecom@lab82.dev)](mailto:falecom@lab82.dev)
 [![Lab82](https://img.shields.io/badge/-lab82.dev-222?style=for-the-badge&logo=rss&logoColor=a6ce39&link=http://bit.ly/WhatsAppLab82)](https://lab82.dev)<br/>
 [![Linkedin](https://img.shields.io/badge/-agencialab82-222?style=flat-square&logo=Linkedin&logoColor=0b66c1&link=https://linkedin.com/company/agencialab82)](https://linkedin.com/company/agencialab82)
 [![Facebook](https://img.shields.io/badge/-@lab82.dev-222?style=flat-square&logo=Facebook&logoColor=2e88fe&link=https://www.facebook.com/lab82.dev)](https://www.facebook.com/lab82.dev)
