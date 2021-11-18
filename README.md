@@ -33,6 +33,7 @@
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-ED8B0B?style=flat-square&logo=sublime-text&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=fff)
+![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logoColor=f14e32&labelColor=000&color=000&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-222?style=flat-square&logo=github&logoColor=fff)
 ![FileZilla](http://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=fff)
 
