@@ -2,7 +2,7 @@
 
 # 👋 olá! sou tiago bernardes
 ### :rocket: Web Dev | Front-End Dev Sr. | WordPress Expert
-> Tenho 39 anos e trabalho com desenvolvimento *web* à 22. Já trabalhei em algumas agências de desenvolvimento em Belo Horizonte e Recife. Também já fiz parte do time de *web* da UPE (Universidade de Pernambuco). Fiquei um bom tempo trabahando como *freelancer*, hoje estou no comandando da Agência Digital [Lab82](https://lab82.dev), por aqui curtimos desenvolvimento *web*, Linux, Wordpress e um bom café forte :coffee:.
+> Tenho 40 anos e trabalho com desenvolvimento *web* à 22. Já trabalhei em algumas agências de desenvolvimento em Belo Horizonte e Recife. Também já fiz parte do time de *web* da UPE (Universidade de Pernambuco). Fiquei um bom tempo trabahando como *freelancer*, hoje estou no comandando da Agência Digital [Lab82](https://lab82.dev), por aqui curtimos desenvolvimento *web*, Linux, Wordpress e um bom café forte :coffee:.
 
 ### :computer: contatos e redes sociais
 [![Telegram](https://img.shields.io/badge/-telegram-222?style=for-the-badge&logo=telegram&logoColor=26a5e4&link=https://t.me/tiagobernard)](https://t.me/tiagobernard)
