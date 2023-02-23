@@ -30,7 +30,7 @@
 ![Linux](http://img.shields.io/badge/-Linux-fcc624?style=flat-square&logo=linux&logoColor=333)
 ![Fedora](http://img.shields.io/badge/-Fedora-294172?style=flat-square&logo=fedora&logoColor=fff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
-![Sublime Text](http://img.shields.io/badge/-Sublime%20Text-ED8B0B?style=flat-square&logo=sublime-text&logoColor=fff)
+![Sublime Text](http://img.shields.io/badge/-tailwind-06B6D4?style=flat-square&logo=tail-wind&logoColor=fff)
 ![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=Bootstrap&logoColor=fff)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logoColor=f14e32&labelColor=000&color=000&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-222?style=flat-square&logo=github&logoColor=fff)
