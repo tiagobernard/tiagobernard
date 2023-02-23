@@ -36,7 +36,6 @@
 ![Tail Wind CSS](http://img.shields.io/badge/-TailWind%20CSS-333333?style=flat-square&logo=tailwindcss&logoColor=06B6D4&color=333)
 ![Git](https://img.shields.io/badge/-Git-000?style=flat-square&logoColor=f14e32&labelColor=000&color=000&logo=git)
 ![GitHub](https://img.shields.io/badge/-GitHub-222?style=flat-square&logo=github&logoColor=fff)
-![FileZilla](http://img.shields.io/badge/-FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=fff)
 
 ### :octocat: destaques github
 
