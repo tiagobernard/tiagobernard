@@ -1,7 +1,7 @@
 <samp>
 
 # 👋 olá! sou tiago bernardes
-### :rocket: Web Dev | Front-End | WordPress | Woocommerce | Elementor | WPBakery
+### :rocket: Front-End |WordPress | Headless | Vuejs | Woocommerce | Elementor
 > Tenho 40 anos e trabalho com desenvolvimento *web* à 22. Já trabalhei em algumas agências de desenvolvimento em Belo Horizonte e Recife. Também já fiz parte do time de *web* da UPE (Universidade de Pernambuco). Trabalho atualmente como  *freelancer* na Agência Digital [Lab82](https://lab82.dev), curto desenvolvimento *web*, Linux, Wordpress e um bom café forte :coffee:.
 
 ### :computer: contatos e redes sociais
