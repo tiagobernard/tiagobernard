@@ -7,7 +7,7 @@
 ### :computer: contatos e redes sociais
 [![Telegram](https://img.shields.io/badge/-telegram-222?style=for-the-badge&logo=telegram&logoColor=26a5e4&link=https://t.me/tiagobernard)](https://t.me/tiagobernard)
 [![Discord](https://img.shields.io/badge/-tiagobernard%235516-222?style=for-the-badge&logo=Discord&logoColor=7289DA&link=https://discord.com/users/556874691348791326/)](https://discord.com/users/556874691348791326/)
-[![E-Mail](https://img.shields.io/badge/-email-222?style=for-the-badge&logo=mail.ru&logoColor=3f729b&link=mailto:tiago@tiagobernardes.com.br)](mailto:tiago@tiagobernardes.com.br)
+[![E-Mail](https://img.shields.io/badge/-email-222?style=for-the-badge&logo=mail.ru&logoColor=3f729b&link=mailto:tiago@lab82.dev)](mailto:tiago@lab82.dev)
 [![Blog](https://img.shields.io/badge/-tiagobernardes.com.br-222?style=for-the-badge&logo=LiveChat&logoColor=3f729b&link=https://tiagobernardes.com.br)](https://tiagobernardes.com.br)<br />
 ![GitHub followers](https://img.shields.io/github/followers/tiagobernard?color=000&label=seguir&logo=github&style=flat-square&labelColor=222)
 [![Linkedin](https://img.shields.io/badge/-linkedin-222?style=flat-square&logo=Linkedin&logoColor=white&labelColor=0b66c1&link=https://linkedin.com/in/tiagobernard)](https://linkedin.com/in/tiagobernard)
