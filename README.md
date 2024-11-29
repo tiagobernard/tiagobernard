@@ -1,6 +1,6 @@
 <samp>
 
-# 👋 olá! sou tiago bernardes
+# 👋 Olá! sou Tiago Bernardes
 ### :rocket: WordPress, Headless, Vuejs | Estudante CST, SAP, ABAP e SAP BTP
 > Sou um estudante em fase avançada do curso superior de Tecnologia em Sistemas para Internet, com uma sólida base acadêmica e prática em desenvolvimento de sistemas web e soluções tecnológicas. Também estou me especializando em SAP e ABAP, o que complementa meu perfil técnico e aumenta minha capacidade de atuar em projetos robustos e corporativos.
 > 
