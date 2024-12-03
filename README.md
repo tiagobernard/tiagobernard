@@ -17,7 +17,7 @@
 [![Youtube](https://img.shields.io/badge/-youtube-222?style=flat-square&logo=youtube&logoColor=fff&labelColor=red&link=https://youtube.com/tiagobernards)](https://youtube.com/tiagobernards)
 [![Twitch](https://img.shields.io/badge/-twitch-222?style=flat-square&logo=Twitch&logoColor=fff&labelColor=9146ff&link=https://www.twitch.tv/tiagobernards)](https://www.twitch.tv/tiagobernards)
 [![Facebook](https://img.shields.io/badge/-facebook-222?style=flat-square&logo=Facebook&logoColor=white&labelColor=2e88fe&link=https://www.facebook.com/tiagobernard.dev)](https://www.facebook.com/tiagobernard.dev)
-[![Twitter](https://img.shields.io/badge/-x-222?style=flat-square&logo=X&logoColor=fff&labelColor=1DA1F2&link=https://twitter.com/tiagobernard)](https://twitter.com/tiagobernard)
+[![Twitter](https://img.shields.io/badge/-X-222?style=flat-square&logo=X&logoColor=fff&labelColor=000000&link=https://twitter.com/tiagobernard)](https://twitter.com/tiagobernard)
 
 ### :technologist: linguagens e ferramentas
 ![PHP](http://img.shields.io/badge/-PHP-3776AB?style=flat-square&logo=php&logoColor=ffffff)
