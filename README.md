@@ -2,7 +2,7 @@
 
 # 👋 Olá! sou Tiago Bernardes
 ### :rocket: Desenvolvedor Web | Estudante CST, Python, POO, SAP ABAP
-> Sou um estudante em fase avançada do Curso Superior de Tecnologia em Sistemas para Internet, com uma sólida base acadêmica e prática em desenvolvimento de sistemas web e soluções tecnológicas. Também estou me especializando em SAP e ABAP, o que complementa meu perfil técnico e aumenta minha capacidade de atuar em projetos robustos e corporativos.
+> Sou estudante em fase avançada do curso superior de Tecnologia em Sistemas para Internet, com sólida base acadêmica e prática em desenvolvimento de sistemas web e soluções tecnológicas. Atualmente, atuo como estagiário em Tecnologia da Informação no Centro de Referência de Ensino à Distância (CREAD/IFMG), onde contribuo com projetos institucionais e aprimoro habilidades em suporte técnico, gestão de sistemas e desenvolvimento de soluções educacionais digitais. Paralelamente, estou me especializando em SAP e ABAP, complementando meu perfil técnico para atuar em projetos robustos e corporativos.
 > 
 > Minha experiência inclui atuação em agências de desenvolvimento de sites em Belo Horizonte e Recife, além de uma valiosa colaboração com a equipe de desenvolvimento web da Universidade de Pernambuco (UPE). Atualmente, trabalho como freelancer, desenvolvendo projetos personalizados para diferentes necessidades empresariais, o que me permite aplicar e expandir meus conhecimentos em tecnologias web, gestão de projetos e metodologias ágeis.
 
