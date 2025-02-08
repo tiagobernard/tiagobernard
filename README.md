@@ -2,9 +2,7 @@
 
 # 👋 Olá! sou Tiago Bernardes
 ### :rocket: Desenvolvedor Web | Estudante CST, Python, POO, SAP ABAP
-> Sou estudante em fase avançada do curso superior de Tecnologia em Sistemas para Internet, com sólida base acadêmica e prática em desenvolvimento de sistemas web e soluções tecnológicas. Atualmente, atuo como estagiário em Tecnologia da Informação no Centro de Referência de Ensino à Distância (CREAD/IFMG), onde contribuo com projetos institucionais e aprimoro habilidades em suporte técnico, gestão de sistemas e desenvolvimento de soluções educacionais digitais. Paralelamente, estou me especializando em IA, Python e ABAP, complementando meu perfil técnico para atuar em projetos robustos e corporativos.
-> 
-> Minha experiência inclui atuação em agências de desenvolvimento de sites em Belo Horizonte e Recife, além de uma valiosa colaboração com a equipe de desenvolvimento web da Universidade de Pernambuco (UPE). Atualmente, trabalho como freelancer, desenvolvendo projetos personalizados para diferentes necessidades empresariais, o que me permite aplicar e expandir meus conhecimentos em tecnologias web, gestão de projetos e metodologias ágeis.
+> Com mais de 20 anos de experiência em desenvolvimento web, passei os últimos 9 anos trabalhando como freelancer, no momento estou fazendo curso superior em Tecnologia de Sistemas para Internet e estagio no Centro de Referência de Educação à Distância do IFMG, na área de tecnologia da informação. Esta etapa de recolocação no mercado simboliza meu desejo de integrar equipes corporativas, onde poderei aplicar minhas habilidades em desenvolvimento e gestão de sistemas web, suporte técnico e criação de soluções digitais educacionais. Paralelamente, estou aprofundando meus conhecimentos em I.A., Python e ABAP para enriquecer meu perfil técnico e oferecer contribuições significativas a projetos avançados e inovadores.
 
 ### :computer: contatos e redes sociais
 [![Telegram](https://img.shields.io/badge/-telegram-222?style=for-the-badge&logo=telegram&logoColor=26a5e4&link=https://t.me/tiagobernard)](https://t.me/tiagobernard)
