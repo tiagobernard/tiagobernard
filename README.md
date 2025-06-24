@@ -1,7 +1,7 @@
 <samp>
 
 # 👋 Olá! sou Tiago Bernardes
-### :rocket: Desenvolvedor Web | Estudante CST, Python, POO, SAP ABAP
+### :rocket: Desenvolvedor Web VueJS NuxtJS Python FastAPI | Estudante CST
 > Com uma sólida experiência de mais de duas décadas em desenvolvimento web, destaquei-me como freelancer por 9 anos (de 2015 a 2024). Atualmente, como Desenvolvedor no CREAD/IFMG, contribuo ativamente para projetos inovadores, incluindo:
 
 > 🔹 Desenvolvimento do novo site EAD do IFMG utilizando Nuxt.js, com integração de APIs para uma experiência de usuário otimizada;  
