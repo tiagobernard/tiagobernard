@@ -2,7 +2,12 @@
 
 # 👋 Olá! sou Tiago Bernardes
 ### :rocket: Desenvolvedor Web | Estudante CST, Python, POO, SAP ABAP
-> Com mais de 20 anos de experiência em desenvolvimento web, passei os últimos 9 anos trabalhando como freelancer, no momento estou fazendo curso superior em Tecnologia de Sistemas para Internet e estagio no Centro de Referência de Educação à Distância do IFMG, na área de tecnologia da informação. Esta etapa de recolocação no mercado simboliza meu desejo de integrar equipes corporativas, onde poderei aplicar minhas habilidades em desenvolvimento e gestão de sistemas web, suporte técnico e criação de soluções digitais educacionais. Paralelamente, estou aprofundando meus conhecimentos em I.A., Python e ABAP para enriquecer meu perfil técnico e oferecer contribuições significativas a projetos avançados e inovadores.
+> Com uma sólida experiência de mais de duas décadas em desenvolvimento web, destaquei-me como freelancer por 9 anos (de 2015 a 2024). Atualmente, como Desenvolvedor no CREAD/IFMG, contribuo ativamente para projetos inovadores, incluindo:
+
+> 🔹 Desenvolvimento do novo site EAD do IFMG utilizando Nuxt.js, com integração de APIs para uma experiência de usuário otimizada;
+> 🔹 Elaboração de documentação técnica detalhada para sistemas web, assegurando a manutenção e a escalabilidade das soluções.
+
+> Paralelamente, estou no 4º período do curso de Tecnologia em Sistemas para Internet e aprofundando minha especialização em Inteligência Artificial, Python, FastAPI e Docker. Meu objetivo é aprimorar continuamente minhas habilidades técnicas para fornecer soluções digitais inovadoras e escaláveis na área de educação, alinhando-me às últimas tendências e práticas do setor.
 
 ### :computer: contatos e redes sociais
 [![Telegram](https://img.shields.io/badge/-telegram-222?style=for-the-badge&logo=telegram&logoColor=26a5e4&link=https://t.me/tiagobernard)](https://t.me/tiagobernard)
