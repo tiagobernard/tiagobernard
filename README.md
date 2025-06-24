@@ -4,7 +4,7 @@
 ### :rocket: Desenvolvedor Web | Estudante CST, Python, POO, SAP ABAP
 > Com uma sólida experiência de mais de duas décadas em desenvolvimento web, destaquei-me como freelancer por 9 anos (de 2015 a 2024). Atualmente, como Desenvolvedor no CREAD/IFMG, contribuo ativamente para projetos inovadores, incluindo:
 
-> 🔹 Desenvolvimento do novo site EAD do IFMG utilizando Nuxt.js, com integração de APIs para uma experiência de usuário otimizada;
+> 🔹 Desenvolvimento do novo site EAD do IFMG utilizando Nuxt.js, com integração de APIs para uma experiência de usuário otimizada;  
 > 🔹 Elaboração de documentação técnica detalhada para sistemas web, assegurando a manutenção e a escalabilidade das soluções.
 
 > Paralelamente, estou no 4º período do curso de Tecnologia em Sistemas para Internet e aprofundando minha especialização em Inteligência Artificial, Python, FastAPI e Docker. Meu objetivo é aprimorar continuamente minhas habilidades técnicas para fornecer soluções digitais inovadoras e escaláveis na área de educação, alinhando-me às últimas tendências e práticas do setor.
