@@ -1,23 +1,33 @@
 <div align="center">
-  <img src="https://github.com/tiagobernard/site-tb-2026/raw/main/public/logo.png" width="80" alt="TB Logo" />
+  <p align="center">
+    <samp style="font-size: 2.5rem; font-weight: bold; color: #9accf9">
+      &lt;tb /&gt;
+    </samp>
+  </p>
   <h1>Tiago Bernardes</h1>
-  <p><strong>GenAI Web Developer | Especialista em Alta Performance</strong></p>
+  <p><strong>Especialista em GenAI Web Dev de Alta Performance</strong></p>
   <p>
-    <a href="https://tiagobernardes.com.br">Website</a> •
-    <a href="https://linkedin.com/in/tiagobernard">LinkedIn</a> •
-    <a href="mailto:tiago@lab82.dev">Email</a>
+    <a href="https://tiagobernardes.com.br">
+      <img src="https://img.shields.io/badge/🌐_Website-0D1117?style=for-the-badge" alt="Website" />
+    </a>
+    <a href="https://linkedin.com/in/tiagobernard">
+      <img src="https://img.shields.io/badge/🔗_LinkedIn-0D1117?style=for-the-badge" alt="LinkedIn" />
+    </a>
+    <a href="https://github.com/tiagobernard/site-tb-2026">
+      <img src="https://img.shields.io/badge/📂_Projeto_2026-0D1117?style=for-the-badge" alt="GitHub Repo" />
+    </a>
   </p>
 </div>
 
 <br/>
 
 ### ⚡ Sobre Mim
-Especialista em unir **Engenharia de Software** e **Inteligência Artificial** para construir arquiteturas robustas e experiências digitais de alta performance. [cite_start]Com mais de 20 anos de estrada, hoje foco em escalar o ecossistema de educação digital no **IFMG** e em desenvolver soluções inteligentes com foco em conversão e automação[cite: 16, 17, 77].
+Especialista em unir **Engenharia de Software** e **Inteligência Artificial** para construir arquiteturas robustas e experiências digitais de alta performance. Com mais de 20 anos de estrada, hoje foco em escalar o ecossistema de educação digital no **IFMG** e em desenvolver soluções inteligentes com foco em conversão e automação.
 
-- [cite_start]🚀 **Atualmente:** Liderando o desenvolvimento front-end no CREAD/IFMG com Nuxt 4 e Nuxt UI[cite: 78, 82].
-- [cite_start]🤖 **Foco em GenAI:** Integrando LLMs e automações via n8n para otimização de workflows[cite: 18, 84, 85].
-- [cite_start]🎓 **Formação:** Graduando em Sistemas para Internet (5º período)[cite: 26, 116].
-- [cite_start]📍 **Localização:** Minas Gerais, Brasil[cite: 20].
+- 🚀 **Atualmente:** Liderando o desenvolvimento front-end no CREAD/IFMG com Nuxt 4 e Nuxt UI.
+- 🤖 **Foco em GenAI:** Integrando LLMs e automações via n8n para otimização de workflows.
+- 🎓 **Formação:** Graduando em Sistemas para Internet (5º período).
+- 📍 **Localização:** Minas Gerais, Brasil.
 
 ---
 
@@ -45,9 +55,9 @@ Especialista em unir **Engenharia de Software** e **Inteligência Artificial** p
 ---
 
 ### 🌟 Trabalhos em Destaque
-- [cite_start]**EAD IFMG:** Redesenho do portal educacional com aumento de 40% na velocidade de entrega de componentes[cite: 82].
-- [cite_start]**Lab82:** Mais de 30 projetos entregues com foco em performance e SEO, incluindo nomes como Sofia Maia e Domani Soluções[cite: 87, 89].
-- [cite_start]**Automação GenAI:** Implementação de pipelines de documentação técnica automatizada e integração de IA no fluxo de desenvolvimento[cite: 83, 85].
+- **EAD IFMG:** Redesenho do portal educacional com aumento de 40% na velocidade de entrega de componentes.
+- **Lab82:** Mais de 30 projetos entregues com foco em performance e SEO, incluindo nomes como Sofia Maia e Domani Soluções.
+- **Automação GenAI:** Implementação de pipelines de documentação técnica automatizada e integração de IA no fluxo de desenvolvimento.
 
 ---
 
