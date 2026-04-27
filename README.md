@@ -1,8 +1,8 @@
 <div align="center">
   <p align="center">
-    <samp style="font-size: 2.5rem; font-weight: bold; color: #9accf9">
+    <h1>
       &lt;tb /&gt;
-    </samp>
+    </h1>
   </p>
   <h1>Tiago Bernardes</h1>
   <p><strong>Especialista em GenAI Web Dev de Alta Performance</strong></p>
