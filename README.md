@@ -1,10 +1,5 @@
 <div align="center">
-  <p align="center">
-    <h1>
-      &lt;tb /&gt;
-    </h1>
-  </p>
-  <h1>Tiago Bernardes</h1>
+  <h1>&lt;tb /&gt; Tiago Bernardes</h1>
   <p><strong>Especialista em GenAI Web Dev de Alta Performance</strong></p>
   <p>
     <a href="https://tiagobernardes.com.br">
