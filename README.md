@@ -1,6 +1,6 @@
 <div align="center">
   <h1>&lt;tb /&gt; Tiago Bernardes</h1>
-  <p><strong>Especialista em GenAI Web Dev de Alta Performance</strong></p>
+  <p><strong>Desenvolvedor Front-end Sênior Vue Nuxt React Next</strong></p>
   <p>
     <a href="https://tiagobernardes.com.br">
       <img src="https://img.shields.io/badge/🌐_Website-0D1117?style=for-the-badge" alt="Website" />
