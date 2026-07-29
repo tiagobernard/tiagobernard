@@ -20,8 +20,9 @@
 Especialista em unir **Engenharia de Software** e **Inteligência Artificial** para construir arquiteturas robustas e experiências digitais de alta performance. Com mais de 20 anos de estrada, hoje foco em escalar o ecossistema de educação digital no **IFMG** e em desenvolver soluções inteligentes com foco em conversão e automação.
 
 - 🚀 **Atualmente:** Liderando o desenvolvimento front-end no CREAD/IFMG com Nuxt 4 e Nuxt UI.
-- 🤖 **Foco em GenAI:** Integrando LLMs e automações via n8n para otimização de workflows.
-- 🎓 **Formação:** Graduando em Sistemas para Internet (5º período).
+- 🤖 **Foco em GenAI:** Integrando LLMs (Anthropic Claude e OpenAI) e automações via n8n para otimização de workflows.
+- 🎓 **Pós-graduação:** Engenharia de Software na PUC Minas (conclusão prevista: Jul. 2027).
+- ✅ **Graduação:** Tecnólogo em Sistemas para Internet, concluído em Jun. 2026.
 - 📍 **Localização:** Minas Gerais, Brasil.
 
 ---
@@ -30,12 +31,14 @@ Especialista em unir **Engenharia de Software** e **Inteligência Artificial** p
 
 <div align="center">
 
-| Core Frontend | Backend & Data | Automation & AI |
+| Core Frontend | Backend & Data | Automation, AI & Deploy |
 | :--- | :--- | :--- |
 | ![Nuxt 4](https://img.shields.io/badge/Nuxt_4-00DC82?style=flat-square&logo=nuxtdotjs&logoColor=white) | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) | ![n8n](https://img.shields.io/badge/n8n-FF6D5B?style=flat-square&logo=n8n&logoColor=white) |
 | ![Vue.js 3](https://img.shields.io/badge/Vue.js_3-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white) | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) | ![Anthropic](https://img.shields.io/badge/Anthropic_Claude-D97757?style=flat-square&logo=anthropic&logoColor=white) |
-| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
-| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) | ![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=flat-square&logo=openai&logoColor=white) |
+| ![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) | ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) |
+| ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | ![REST API](https://img.shields.io/badge/REST_API-005571?style=flat-square&logo=fastapi&logoColor=white) | ![Cloudflare Pages](https://img.shields.io/badge/Cloudflare_Pages-F38020?style=flat-square&logo=cloudflarepages&logoColor=white) |
+| ![Tailwind](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white) | ![Cypress](https://img.shields.io/badge/Cypress-69D3A7?style=flat-square&logo=cypress&logoColor=black) | ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white) |
 
 </div>
 
@@ -51,8 +54,17 @@ Especialista em unir **Engenharia de Software** e **Inteligência Artificial** p
 
 ### 🌟 Trabalhos em Destaque
 - **EAD IFMG:** Redesenho do portal educacional com aumento de 40% na velocidade de entrega de componentes.
-- **Lab82:** Mais de 30 projetos entregues com foco em performance e SEO, incluindo nomes como Sofia Maia e Domani Soluções.
-- **Automação GenAI:** Implementação de pipelines de documentação técnica automatizada e integração de IA no fluxo de desenvolvimento.
+- **Site TB 2026:** Portfólio desenvolvido via orquestração de agentes de IA, com Nuxt 4, Tailwind v4 e deploy estático no Cloudflare Pages.
+- **Lab82:** Site institucional em Next.js 16 com App Router e ISR, atingindo 100/100 no PageSpeed Insights (desktop).
+- **Automação GenAI:** Pipelines de documentação técnica automatizada e integração de LLMs no fluxo de desenvolvimento.
+
+---
+
+### 🎓 Formação & Certificações
+- **Pós-graduação em Engenharia de Software** · PUC Minas · *em andamento (Jul. 2027)*
+- **Tecnólogo em Sistemas para Internet** · Anhanguera Educacional · *Jun. 2026*
+- **SAP Suite Completa:** Basis, HCM, SD, FI, MM, ABAP e SAP Fiori · *Certificado*
+- **IA Generativa & Ciência de Dados** · Fundamentos e aplicações práticas
 
 ---
 
